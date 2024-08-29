@@ -16,7 +16,7 @@ The dataset includes comprehensive information on Rockbuster’s film inventory,
 
 
 ## Systems Used
-pgAdmin4: For managing PostgreSQL databases.
-PostgreSQL: Relational database management system (RDBMS) used to store and query Rockbuster's data.
-Tableau Public: Platform for creating and sharing interactive data visualizations.
+-pgAdmin4: For managing PostgreSQL databases.
+-PostgreSQL: Relational database management system (RDBMS) used to store and query Rockbuster's data.
+-Tableau Public: Platform for creating and sharing interactive data visualizations.
 
