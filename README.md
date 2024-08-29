@@ -23,5 +23,5 @@ The dataset includes comprehensive information on Rockbuster’s film inventory,
 ##### PostgreSQL: Relational database management system (RDBMS) used to store and query Rockbuster's data.
 ##### Tableau Public: Platform for creating and sharing interactive data visualizations.
 
-(View visualizations here: Visualizations on Tableau Public)(https://public.tableau.com/app/profile/asawer.maknoon/viz/ROCKBUSTERSTEALTHLLCDataAnalysisProject/Story1?publish=yes)
+[View visualizations here: Visualizations on Tableau Public](https://public.tableau.com/app/profile/asawer.maknoon/viz/ROCKBUSTERSTEALTHLLCDataAnalysisProject/Story1?publish=yes)
 
